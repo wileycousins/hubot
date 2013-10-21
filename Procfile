@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n timmy
+web: ./bin/hubot
