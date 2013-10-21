@@ -1,1 +1,1 @@
-web: ./bin/hubot -a irc -n timmy -a timmy
+web: ./bin/hubot -a irc -n timmy -l timmy
