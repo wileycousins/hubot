@@ -18,7 +18,9 @@
     "hubot": "2.6.3",
     "hubot-scripts": "2.5.6",
     "hubot-irc" : "*",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "scraper": "0.0.9",
+    
   },
 
   "engines": {
